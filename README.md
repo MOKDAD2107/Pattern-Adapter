@@ -1,2 +1,2 @@
-<h3>Diagram de class</h3>
-<img src="img/Adapter.png">
+## Diagram de class
+<img src="img/Adapter.png" alt="Diagram de classe Adapter" />
